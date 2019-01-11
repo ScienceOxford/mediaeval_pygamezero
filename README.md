@@ -1,6 +1,6 @@
 # mediaeval_pygamezero
 
-Files for the 1.5h Creative Computing Club
+Files for the 1.5h Creative Computing Club, Castles & Coding
 
 *Developed by [ScienceOxford](https://scienceoxford.com) for educational purposes. Please give credit where applicable.
 <br>We love seeing what you've created, so tag us when you share! [@ScienceOxford](https://twitter.com/scienceoxford)*
